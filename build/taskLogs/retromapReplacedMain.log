@@ -33589,100 +33589,100 @@ Rename field net/minecraft/init/Items/written_book[6090,6102]::written_book->fie
 Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[6182,6189]::getItem->func_77973_b
 Rename class net/minecraft/init/Items[6200,6205]::Items->Items
 Rename field net/minecraft/init/Items/chest_minecart[6206,6220]::chest_minecart->field_151108_aI
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[6467,6474]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[6485,6490]::Items->Items
-Rename field net/minecraft/init/Items/map[6491,6494]::map->field_151148_bJ
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[6546,6553]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[6564,6569]::Items->Items
-Rename field net/minecraft/init/Items/filled_map[6570,6580]::filled_map->field_151098_aY
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[6667,6674]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[6685,6690]::Items->Items
-Rename field net/minecraft/init/Items/fishing_rod[6691,6702]::fishing_rod->field_151112_aM
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[6745,6752]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[6763,6768]::Items->Items
-Rename field net/minecraft/init/Items/carrot_on_a_stick[6769,6786]::carrot_on_a_stick->field_151146_bM
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[6894,6901]::getItem->func_77973_b
-Rename class net/minecraft/item/Item[6912,6916]::Item->Item
-Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[6917,6933]::getItemFromBlock->func_150898_a
-Rename class net/minecraft/init/Blocks[6931,6937]::Blocks->Blocks
-Rename field net/minecraft/init/Blocks/tallgrass[6938,6947]::tallgrass->field_150329_H
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[7063,7070]::getItem->func_77973_b
-Rename class net/minecraft/item/Item[7081,7085]::Item->Item
-Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[7086,7102]::getItemFromBlock->func_150898_a
-Rename class net/minecraft/init/Blocks[7100,7106]::Blocks->Blocks
-Rename field net/minecraft/init/Blocks/brown_mushroom[7107,7121]::brown_mushroom->field_150338_P
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[7214,7221]::getItem->func_77973_b
-Rename class net/minecraft/item/Item[7232,7236]::Item->Item
-Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[7237,7253]::getItemFromBlock->func_150898_a
-Rename class net/minecraft/init/Blocks[7251,7257]::Blocks->Blocks
-Rename field net/minecraft/init/Blocks/red_mushroom[7258,7270]::red_mushroom->field_150337_Q
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[7624,7631]::getItem->func_77973_b
-Rename class net/minecraft/item/Item[7642,7646]::Item->Item
-Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[7647,7663]::getItemFromBlock->func_150898_a
-Rename class net/minecraft/init/Blocks[7661,7667]::Blocks->Blocks
-Rename field net/minecraft/init/Blocks/brown_mushroom_block[7668,7688]::brown_mushroom_block->field_150420_aW
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[7792,7799]::getItem->func_77973_b
-Rename class net/minecraft/item/Item[7810,7814]::Item->Item
-Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[7815,7831]::getItemFromBlock->func_150898_a
-Rename class net/minecraft/init/Blocks[7829,7835]::Blocks->Blocks
-Rename field net/minecraft/init/Blocks/red_mushroom_block[7836,7854]::red_mushroom_block->field_150419_aX
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[7977,7984]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[7995,8000]::Items->Items
-Rename field net/minecraft/init/Items/armor_stand[8001,8012]::armor_stand->field_179565_cj
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[6330,6337]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[6348,6353]::Items->Items
+Rename field net/minecraft/init/Items/map[6354,6357]::map->field_151148_bJ
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[6409,6416]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[6427,6432]::Items->Items
+Rename field net/minecraft/init/Items/filled_map[6433,6443]::filled_map->field_151098_aY
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[6530,6537]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[6548,6553]::Items->Items
+Rename field net/minecraft/init/Items/fishing_rod[6554,6565]::fishing_rod->field_151112_aM
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[6608,6615]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[6626,6631]::Items->Items
+Rename field net/minecraft/init/Items/carrot_on_a_stick[6632,6649]::carrot_on_a_stick->field_151146_bM
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[6757,6764]::getItem->func_77973_b
+Rename class net/minecraft/item/Item[6775,6779]::Item->Item
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[6780,6796]::getItemFromBlock->func_150898_a
+Rename class net/minecraft/init/Blocks[6794,6800]::Blocks->Blocks
+Rename field net/minecraft/init/Blocks/tallgrass[6801,6810]::tallgrass->field_150329_H
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[6926,6933]::getItem->func_77973_b
+Rename class net/minecraft/item/Item[6944,6948]::Item->Item
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[6949,6965]::getItemFromBlock->func_150898_a
+Rename class net/minecraft/init/Blocks[6963,6969]::Blocks->Blocks
+Rename field net/minecraft/init/Blocks/brown_mushroom[6970,6984]::brown_mushroom->field_150338_P
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[7077,7084]::getItem->func_77973_b
+Rename class net/minecraft/item/Item[7095,7099]::Item->Item
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[7100,7116]::getItemFromBlock->func_150898_a
+Rename class net/minecraft/init/Blocks[7114,7120]::Blocks->Blocks
+Rename field net/minecraft/init/Blocks/red_mushroom[7121,7133]::red_mushroom->field_150337_Q
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[7487,7494]::getItem->func_77973_b
+Rename class net/minecraft/item/Item[7505,7509]::Item->Item
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[7510,7526]::getItemFromBlock->func_150898_a
+Rename class net/minecraft/init/Blocks[7524,7530]::Blocks->Blocks
+Rename field net/minecraft/init/Blocks/brown_mushroom_block[7531,7551]::brown_mushroom_block->field_150420_aW
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[7655,7662]::getItem->func_77973_b
+Rename class net/minecraft/item/Item[7673,7677]::Item->Item
+Rename method net/minecraft/item/Item/getItemFromBlock (Lnet/minecraft/block/Block;)Lnet/minecraft/item/Item;[7678,7694]::getItemFromBlock->func_150898_a
+Rename class net/minecraft/init/Blocks[7692,7698]::Blocks->Blocks
+Rename field net/minecraft/init/Blocks/red_mushroom_block[7699,7717]::red_mushroom_block->field_150419_aX
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[7840,7847]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[7858,7863]::Items->Items
+Rename field net/minecraft/init/Items/armor_stand[7864,7875]::armor_stand->field_179565_cj
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[8108,8115]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[8126,8131]::Items->Items
+Rename field net/minecraft/init/Items/fire_charge[8132,8143]::fire_charge->field_151059_bz
 Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[8245,8252]::getItem->func_77973_b
 Rename class net/minecraft/init/Items[8263,8268]::Items->Items
-Rename field net/minecraft/init/Items/fire_charge[8269,8280]::fire_charge->field_151059_bz
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[8382,8389]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[8400,8405]::Items->Items
-Rename field net/minecraft/init/Items/firework_charge[8406,8421]::firework_charge->field_151154_bQ
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[8461,8468]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[8479,8484]::Items->Items
-Rename field net/minecraft/init/Items/fireworks[8485,8494]::fireworks->field_151152_bP
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[8540,8547]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[8558,8563]::Items->Items
-Rename field net/minecraft/init/Items/gunpowder[8564,8573]::gunpowder->field_151016_H
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[8618,8625]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[8636,8641]::Items->Items
-Rename field net/minecraft/init/Items/blaze_powder[8642,8654]::blaze_powder->field_151065_br
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[8697,8704]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[8715,8720]::Items->Items
-Rename field net/minecraft/init/Items/magma_cream[8721,8732]::magma_cream->field_151064_bs
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[8776,8783]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[8794,8799]::Items->Items
-Rename field net/minecraft/init/Items/ghast_tear[8800,8810]::ghast_tear->field_151073_bk
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[8922,8929]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[8940,8945]::Items->Items
-Rename field net/minecraft/init/Items/spawn_egg[8946,8955]::spawn_egg->field_151063_bx
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9065,9072]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[9083,9088]::Items->Items
-Rename field net/minecraft/init/Items/poisonous_potato[9089,9105]::poisonous_potato->field_151170_bI
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9143,9150]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[9161,9166]::Items->Items
-Rename field net/minecraft/init/Items/rotten_flesh[9167,9179]::rotten_flesh->field_151078_bh
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9221,9228]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[9239,9244]::Items->Items
-Rename field net/minecraft/init/Items/spider_eye[9245,9255]::spider_eye->field_151070_bp
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9299,9306]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[9317,9322]::Items->Items
-Rename field net/minecraft/init/Items/fermented_spider_eye[9323,9343]::fermented_spider_eye->field_151071_bq
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9377,9384]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[9395,9400]::Items->Items
-Rename field net/minecraft/init/Items/rabbit_foot[9401,9412]::rabbit_foot->field_179556_br
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9643,9650]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[9661,9666]::Items->Items
-Rename field net/minecraft/init/Items/leather[9667,9674]::leather->field_151116_aA
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9721,9728]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[9739,9744]::Items->Items
-Rename field net/minecraft/init/Items/leather_boots[9745,9758]::leather_boots->field_151021_T
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9798,9805]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[9816,9821]::Items->Items
-Rename field net/minecraft/init/Items/leather_chestplate[9822,9840]::leather_chestplate->field_151027_R
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9875,9882]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[9893,9898]::Items->Items
-Rename field net/minecraft/init/Items/leather_helmet[9899,9913]::leather_helmet->field_151024_Q
-Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9952,9959]::getItem->func_77973_b
-Rename class net/minecraft/init/Items[9970,9975]::Items->Items
-Rename field net/minecraft/init/Items/leather_leggings[9976,9992]::leather_leggings->field_151026_S
+Rename field net/minecraft/init/Items/firework_charge[8269,8284]::firework_charge->field_151154_bQ
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[8324,8331]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[8342,8347]::Items->Items
+Rename field net/minecraft/init/Items/fireworks[8348,8357]::fireworks->field_151152_bP
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[8403,8410]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[8421,8426]::Items->Items
+Rename field net/minecraft/init/Items/gunpowder[8427,8436]::gunpowder->field_151016_H
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[8481,8488]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[8499,8504]::Items->Items
+Rename field net/minecraft/init/Items/blaze_powder[8505,8517]::blaze_powder->field_151065_br
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[8560,8567]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[8578,8583]::Items->Items
+Rename field net/minecraft/init/Items/magma_cream[8584,8595]::magma_cream->field_151064_bs
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[8639,8646]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[8657,8662]::Items->Items
+Rename field net/minecraft/init/Items/ghast_tear[8663,8673]::ghast_tear->field_151073_bk
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[8785,8792]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[8803,8808]::Items->Items
+Rename field net/minecraft/init/Items/spawn_egg[8809,8818]::spawn_egg->field_151063_bx
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[8928,8935]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[8946,8951]::Items->Items
+Rename field net/minecraft/init/Items/poisonous_potato[8952,8968]::poisonous_potato->field_151170_bI
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9006,9013]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[9024,9029]::Items->Items
+Rename field net/minecraft/init/Items/rotten_flesh[9030,9042]::rotten_flesh->field_151078_bh
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9084,9091]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[9102,9107]::Items->Items
+Rename field net/minecraft/init/Items/spider_eye[9108,9118]::spider_eye->field_151070_bp
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9162,9169]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[9180,9185]::Items->Items
+Rename field net/minecraft/init/Items/fermented_spider_eye[9186,9206]::fermented_spider_eye->field_151071_bq
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9240,9247]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[9258,9263]::Items->Items
+Rename field net/minecraft/init/Items/rabbit_foot[9264,9275]::rabbit_foot->field_179556_br
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9506,9513]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[9524,9529]::Items->Items
+Rename field net/minecraft/init/Items/leather[9530,9537]::leather->field_151116_aA
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9584,9591]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[9602,9607]::Items->Items
+Rename field net/minecraft/init/Items/leather_boots[9608,9621]::leather_boots->field_151021_T
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9661,9668]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[9679,9684]::Items->Items
+Rename field net/minecraft/init/Items/leather_chestplate[9685,9703]::leather_chestplate->field_151027_R
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9738,9745]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[9756,9761]::Items->Items
+Rename field net/minecraft/init/Items/leather_helmet[9762,9776]::leather_helmet->field_151024_Q
+Rename method net/minecraft/item/ItemStack/getItem ()Lnet/minecraft/item/Item;[9815,9822]::getItem->func_77973_b
+Rename class net/minecraft/init/Items[9833,9838]::Items->Items
+Rename field net/minecraft/init/Items/leather_leggings[9839,9855]::leather_leggings->field_151026_S
 Import: net.minecraft.init.Blocks
 Import: net.minecraft.init.Items
 Import: net.minecraft.item.Item
