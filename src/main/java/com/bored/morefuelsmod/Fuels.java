@@ -309,6 +309,9 @@ public class Fuels implements IFuelHandler{
 				if (fuel.getItem() == Item.getItemFromBlock(Blocks.tnt)){
 					return 8080;
 				}
+				if (fuel.getItem() == Items.tnt_minecart){
+					return 8180;
+				}
 				return 0;
 	}
 }
