@@ -77,3 +77,4 @@ Leather Boots  = 400  Ticks or 20  Seconds
 Leather Tunic  = 800  Ticks or 40  Seconds
 Leather Helmet = 500  Ticks or 25  Seconds
 Leather Pants  = 700  Ticks or 35  Seconds
+TNT            = 8080 Ticks or 404 Seconds
