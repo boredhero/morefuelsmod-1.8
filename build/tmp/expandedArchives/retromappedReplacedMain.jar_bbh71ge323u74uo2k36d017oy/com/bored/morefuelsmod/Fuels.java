@@ -305,6 +305,13 @@ public class Fuels implements IFuelHandler{
 				if (fuel.func_77973_b() == Items.field_151026_S){
 					return 700;
 				}
+				//Adding TNT
+				if (fuel.func_77973_b() == Item.func_150898_a(Blocks.field_150335_W)){
+					return 8080;
+				}
+				if (fuel.func_77973_b() == Items.field_151142_bV){
+					return 8180;
+				}
 				return 0;
 	}
 }
