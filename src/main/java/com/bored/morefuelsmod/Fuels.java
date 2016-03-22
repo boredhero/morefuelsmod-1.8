@@ -195,7 +195,7 @@ public class Fuels implements IFuelHandler{
 				}
 				if (fuel.getItem() == Items.chest_minecart){
 				//Vanilla chest burn time is 300 ticks.
-					return 320;
+					return 400;
 				}
 				//Maps, all 200 ticks
 				if (fuel.getItem() == Items.map){
