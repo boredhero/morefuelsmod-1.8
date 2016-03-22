@@ -305,6 +305,10 @@ public class Fuels implements IFuelHandler{
 				if (fuel.getItem() == Items.leather_leggings){
 					return 700;
 				}
+				//Adding TNT
+				if (fuel.getItem() == Item.getItemFromBlock(Blocks.tnt)){
+					return 8080;
+				}
 				return 0;
 	}
 }
