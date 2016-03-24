@@ -33717,11 +33717,11 @@ No rename for method net/minecraftforge/common/config/Property/getBoolean (Z)Z
 No rename for class net/minecraftforge/fml/common/registry/GameRegistry
 [method, net/minecraftforge/fml/common/registry/GameRegistry/addSmelting, (Lnet/minecraft/item/Item;Lnet/minecraft/item/ItemStack;F)V]
 No rename for method net/minecraftforge/fml/common/registry/GameRegistry/addSmelting (Lnet/minecraft/item/Item;Lnet/minecraft/item/ItemStack;F)V
-Rename class net/minecraft/init/Items[1275,1280]::Items->Items
-Rename field net/minecraft/init/Items/rotten_flesh[1281,1293]::rotten_flesh->field_151078_bh
-Rename class net/minecraft/item/ItemStack[1302,1311]::ItemStack->ItemStack
-Rename class net/minecraft/init/Items[1312,1317]::Items->Items
-Rename field net/minecraft/init/Items/leather[1318,1325]::leather->field_151116_aA
+Rename class net/minecraft/init/Items[1281,1286]::Items->Items
+Rename field net/minecraft/init/Items/rotten_flesh[1287,1299]::rotten_flesh->field_151078_bh
+Rename class net/minecraft/item/ItemStack[1308,1317]::ItemStack->ItemStack
+Rename class net/minecraft/init/Items[1318,1323]::Items->Items
+Rename field net/minecraft/init/Items/leather[1324,1331]::leather->field_151116_aA
 [method, net/minecraftforge/common/config/Configuration/save, ()V]
 No rename for method net/minecraftforge/common/config/Configuration/save ()V
 [method, com/bored/morefuelsmod/Main/init, (Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V]

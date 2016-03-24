@@ -30,10 +30,10 @@ You should try SemVer : http://semver.org/
 :testClasses UP-TO-DATE
 :test UP-TO-DATE
 :extractMcpData SKIPPED
-:extractMcpMappings SKIPPED
+:extractMcpMappings
 :getVersionJson
 :extractUserdev UP-TO-DATE
-:genSrgs SKIPPED
+:genSrgs
 :reobfJar
 :extractRangemapReplacedMain
 C:\Users\Noah\Desktop\Code\More Fuels Mod Development Builds\morefuelsmod-1.8\morefuelsmod-1.8\build\sources\main\java
@@ -46,4 +46,4 @@ remapping source...
 
 BUILD SUCCESSFUL
 
-Total time: 7.02 secs
+Total time: 7.379 secs

@@ -395,41 +395,41 @@ processing com\bored\morefuelsmod\Main.java
 Class Start: com.bored.morefuelsmod.Main
    @|com\bored\morefuelsmod\Main.java|736|742|String|class|java.lang.String
    @|com\bored\morefuelsmod\Main.java|743|748|MODID|field|com.bored.morefuelsmod.Main|MODID|
-   @|com\bored\morefuelsmod\Main.java|788|794|String|class|java.lang.String
-   @|com\bored\morefuelsmod\Main.java|795|802|VERSION|field|com.bored.morefuelsmod.Main|VERSION|
-   @|com\bored\morefuelsmod\Main.java|835|841|String|class|java.lang.String
-   @|com\bored\morefuelsmod\Main.java|842|849|MODNAME|field|com.bored.morefuelsmod.Main|MODNAME|
-   @|com\bored\morefuelsmod\Main.java|921|925|Main|class|com.bored.morefuelsmod.Main
-   @|com\bored\morefuelsmod\Main.java|926|934|instance|field|com.bored.morefuelsmod.Main|instance|
+   @|com\bored\morefuelsmod\Main.java|794|800|String|class|java.lang.String
+   @|com\bored\morefuelsmod\Main.java|801|808|VERSION|field|com.bored.morefuelsmod.Main|VERSION|
+   @|com\bored\morefuelsmod\Main.java|841|847|String|class|java.lang.String
+   @|com\bored\morefuelsmod\Main.java|848|855|MODNAME|field|com.bored.morefuelsmod.Main|MODNAME|
+   @|com\bored\morefuelsmod\Main.java|927|931|Main|class|com.bored.morefuelsmod.Main
+   @|com\bored\morefuelsmod\Main.java|932|940|instance|field|com.bored.morefuelsmod.Main|instance|
    Method Start: preinit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
-      @|com\bored\morefuelsmod\Main.java|966|973|preinit|method|com.bored.morefuelsmod.Main|preinit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
-      @|com\bored\morefuelsmod\Main.java|974|999|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
-      @|com\bored\morefuelsmod\Main.java|1000|1005|event|param|com.bored.morefuelsmod.Main|preinit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
-      @|com\bored\morefuelsmod\Main.java|1010|1023|Configuration|class|net.minecraftforge.common.config.Configuration
-      @|com\bored\morefuelsmod\Main.java|1037|1050|Configuration|class|net.minecraftforge.common.config.Configuration
-      @|com\bored\morefuelsmod\Main.java|1051|1056|event|param|com.bored.morefuelsmod.Main|preinit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
-      @|com\bored\morefuelsmod\Main.java|1057|1086|getSuggestedConfigurationFile|method|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|getSuggestedConfigurationFile|()Ljava/io/File;
-      @|com\bored\morefuelsmod\Main.java|1100|1104|load|method|net.minecraftforge.common.config.Configuration|load|()V
-      @|com\bored\morefuelsmod\Main.java|1144|1147|get|method|net.minecraftforge.common.config.Configuration|get|(Ljava/lang/String;Ljava/lang/String;Z)Lnet/minecraftforge/common/config/Property;
-      @|com\bored\morefuelsmod\Main.java|1148|1161|Configuration|class|net.minecraftforge.common.config.Configuration
-      @|com\bored\morefuelsmod\Main.java|1162|1178|CATEGORY_GENERAL|field|net.minecraftforge.common.config.Configuration|CATEGORY_GENERAL
-      @|com\bored\morefuelsmod\Main.java|1206|1216|getBoolean|method|net.minecraftforge.common.config.Property|getBoolean|(Z)Z
-      @|com\bored\morefuelsmod\Main.java|1250|1262|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
-      @|com\bored\morefuelsmod\Main.java|1263|1274|addSmelting|method|net.minecraftforge.fml.common.registry.GameRegistry|addSmelting|(Lnet/minecraft/item/Item;Lnet/minecraft/item/ItemStack;F)V
-      @|com\bored\morefuelsmod\Main.java|1275|1280|Items|class|net.minecraft.init.Items
-      @|com\bored\morefuelsmod\Main.java|1281|1293|rotten_flesh|field|net.minecraft.init.Items|rotten_flesh
-      @|com\bored\morefuelsmod\Main.java|1299|1308|ItemStack|class|net.minecraft.item.ItemStack
-      @|com\bored\morefuelsmod\Main.java|1309|1314|Items|class|net.minecraft.init.Items
-      @|com\bored\morefuelsmod\Main.java|1315|1322|leather|field|net.minecraft.init.Items|leather
-      @|com\bored\morefuelsmod\Main.java|1341|1345|save|method|net.minecraftforge.common.config.Configuration|save|()V
+      @|com\bored\morefuelsmod\Main.java|972|979|preinit|method|com.bored.morefuelsmod.Main|preinit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|com\bored\morefuelsmod\Main.java|980|1005|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+      @|com\bored\morefuelsmod\Main.java|1006|1011|event|param|com.bored.morefuelsmod.Main|preinit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com\bored\morefuelsmod\Main.java|1016|1029|Configuration|class|net.minecraftforge.common.config.Configuration
+      @|com\bored\morefuelsmod\Main.java|1043|1056|Configuration|class|net.minecraftforge.common.config.Configuration
+      @|com\bored\morefuelsmod\Main.java|1057|1062|event|param|com.bored.morefuelsmod.Main|preinit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|event|0
+      @|com\bored\morefuelsmod\Main.java|1063|1092|getSuggestedConfigurationFile|method|net.minecraftforge.fml.common.event.FMLPreInitializationEvent|getSuggestedConfigurationFile|()Ljava/io/File;
+      @|com\bored\morefuelsmod\Main.java|1106|1110|load|method|net.minecraftforge.common.config.Configuration|load|()V
+      @|com\bored\morefuelsmod\Main.java|1150|1153|get|method|net.minecraftforge.common.config.Configuration|get|(Ljava/lang/String;Ljava/lang/String;Z)Lnet/minecraftforge/common/config/Property;
+      @|com\bored\morefuelsmod\Main.java|1154|1167|Configuration|class|net.minecraftforge.common.config.Configuration
+      @|com\bored\morefuelsmod\Main.java|1168|1184|CATEGORY_GENERAL|field|net.minecraftforge.common.config.Configuration|CATEGORY_GENERAL
+      @|com\bored\morefuelsmod\Main.java|1212|1222|getBoolean|method|net.minecraftforge.common.config.Property|getBoolean|(Z)Z
+      @|com\bored\morefuelsmod\Main.java|1256|1268|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\bored\morefuelsmod\Main.java|1269|1280|addSmelting|method|net.minecraftforge.fml.common.registry.GameRegistry|addSmelting|(Lnet/minecraft/item/Item;Lnet/minecraft/item/ItemStack;F)V
+      @|com\bored\morefuelsmod\Main.java|1281|1286|Items|class|net.minecraft.init.Items
+      @|com\bored\morefuelsmod\Main.java|1287|1299|rotten_flesh|field|net.minecraft.init.Items|rotten_flesh
+      @|com\bored\morefuelsmod\Main.java|1305|1314|ItemStack|class|net.minecraft.item.ItemStack
+      @|com\bored\morefuelsmod\Main.java|1315|1320|Items|class|net.minecraft.init.Items
+      @|com\bored\morefuelsmod\Main.java|1321|1328|leather|field|net.minecraft.init.Items|leather
+      @|com\bored\morefuelsmod\Main.java|1347|1351|save|method|net.minecraftforge.common.config.Configuration|save|()V
    Method End: preinit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
    Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
-      @|com\bored\morefuelsmod\Main.java|1384|1388|init|method|com.bored.morefuelsmod.Main|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
-      @|com\bored\morefuelsmod\Main.java|1389|1411|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
-      @|com\bored\morefuelsmod\Main.java|1412|1417|event|param|com.bored.morefuelsmod.Main|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
-      @|com\bored\morefuelsmod\Main.java|1422|1434|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
-      @|com\bored\morefuelsmod\Main.java|1435|1454|registerFuelHandler|method|net.minecraftforge.fml.common.registry.GameRegistry|registerFuelHandler|(Lnet/minecraftforge/fml/common/IFuelHandler;)V
-      @|com\bored\morefuelsmod\Main.java|1459|1464|Fuels|class|com.bored.morefuelsmod.Fuels
+      @|com\bored\morefuelsmod\Main.java|1390|1394|init|method|com.bored.morefuelsmod.Main|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\bored\morefuelsmod\Main.java|1395|1417|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|com\bored\morefuelsmod\Main.java|1418|1423|event|param|com.bored.morefuelsmod.Main|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com\bored\morefuelsmod\Main.java|1428|1440|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\bored\morefuelsmod\Main.java|1441|1460|registerFuelHandler|method|net.minecraftforge.fml.common.registry.GameRegistry|registerFuelHandler|(Lnet/minecraftforge/fml/common/IFuelHandler;)V
+      @|com\bored\morefuelsmod\Main.java|1465|1470|Fuels|class|com.bored.morefuelsmod.Fuels
    Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
 Class End  : com.bored.morefuelsmod.Main
 endProcessing com\bored\morefuelsmod\Main.java
