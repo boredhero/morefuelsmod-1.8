@@ -31,6 +31,8 @@ public class Main {
 		if(enableRFtLrecipe)
 			GameRegistry.addSmelting(Items.rotten_flesh, new ItemStack(Items.leather), 0.3F);
 		config.save();
+		//Load the items.
+		//MoreFuelsItems.createItems();
 		}
 
 	
