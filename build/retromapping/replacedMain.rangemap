@@ -424,12 +424,12 @@ Class Start: com.bored.morefuelsmod.Main
       @|com\bored\morefuelsmod\Main.java|1347|1351|save|method|net.minecraftforge.common.config.Configuration|save|()V
    Method End: preinit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
    Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
-      @|com\bored\morefuelsmod\Main.java|1390|1394|init|method|com.bored.morefuelsmod.Main|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
-      @|com\bored\morefuelsmod\Main.java|1395|1417|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
-      @|com\bored\morefuelsmod\Main.java|1418|1423|event|param|com.bored.morefuelsmod.Main|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
-      @|com\bored\morefuelsmod\Main.java|1428|1440|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
-      @|com\bored\morefuelsmod\Main.java|1441|1460|registerFuelHandler|method|net.minecraftforge.fml.common.registry.GameRegistry|registerFuelHandler|(Lnet/minecraftforge/fml/common/IFuelHandler;)V
-      @|com\bored\morefuelsmod\Main.java|1465|1470|Fuels|class|com.bored.morefuelsmod.Fuels
+      @|com\bored\morefuelsmod\Main.java|1444|1448|init|method|com.bored.morefuelsmod.Main|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com\bored\morefuelsmod\Main.java|1449|1471|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|com\bored\morefuelsmod\Main.java|1472|1477|event|param|com.bored.morefuelsmod.Main|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com\bored\morefuelsmod\Main.java|1482|1494|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|com\bored\morefuelsmod\Main.java|1495|1514|registerFuelHandler|method|net.minecraftforge.fml.common.registry.GameRegistry|registerFuelHandler|(Lnet/minecraftforge/fml/common/IFuelHandler;)V
+      @|com\bored\morefuelsmod\Main.java|1519|1524|Fuels|class|com.bored.morefuelsmod.Fuels
    Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
 Class End  : com.bored.morefuelsmod.Main
 endProcessing com\bored\morefuelsmod\Main.java
