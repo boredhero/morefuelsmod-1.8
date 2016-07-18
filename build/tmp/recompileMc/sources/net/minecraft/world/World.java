@@ -405,7 +405,7 @@ public abstract class World implements IBlockAccess
             {
                 if (!this.isRemote && (flags & 1) != 0)
                 {
-                    this.notifyNeighborsRespectDebug(pos, new_.getBlock());
+                    this.notifyNeighborsRespectDebug(pos, old.getBlock());
 
                     if (new_.getBlock().hasComparatorInputOverride())
                     {

@@ -724,7 +724,8 @@ public class Chunk
                     }
                 }
 
-                if (!this.worldObj.isRemote && block1 != block)
+                // If capturing blocks, only run block physics for TE's. Non-TE's are handled in ForgeHooks.onPlaceItemIntoWorld
+                if (!this.worldObj.isRemote && block1 != block && (!this.worldObj.captureBlockSnapshots || block.hasTileEntity(state)))
                 {
                     block.onBlockAdded(this.worldObj, pos, state);
                 }

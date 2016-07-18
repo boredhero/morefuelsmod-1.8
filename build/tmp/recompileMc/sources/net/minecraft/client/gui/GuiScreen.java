@@ -189,7 +189,8 @@ public abstract class GuiScreen extends Gui implements GuiYesNoCallback
 
     protected void drawHoveringText(List<String> textLines, int x, int y, FontRenderer font)
     {
-        if (!textLines.isEmpty())
+        net.minecraftforge.fml.client.config.GuiUtils.drawHoveringText(textLines, x, y, width, height, -1, font);
+        if (false && !textLines.isEmpty())
         {
             GlStateManager.disableRescaleNormal();
             RenderHelper.disableStandardItemLighting();
@@ -199,7 +200,7 @@ public abstract class GuiScreen extends Gui implements GuiYesNoCallback
 
             for (String s : textLines)
             {
-                int j = font.getStringWidth(s);
+                int j = this.fontRendererObj.getStringWidth(s);
 
                 if (j > i)
                 {
@@ -244,7 +245,7 @@ public abstract class GuiScreen extends Gui implements GuiYesNoCallback
             for (int k1 = 0; k1 < textLines.size(); ++k1)
             {
                 String s1 = (String)textLines.get(k1);
-                font.drawStringWithShadow(s1, (float)l1, (float)i2, -1);
+                this.fontRendererObj.drawStringWithShadow(s1, (float)l1, (float)i2, -1);
 
                 if (k1 == 0)
                 {

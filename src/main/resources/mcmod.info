@@ -1,16 +1,15 @@
 [
 {
   "modid": "morefuelsmod-1.8.9",
-  "name": "§4§lMore Fuels Mod",
-  "description": "§6§oA mod that makes more items usable as fuel.",
-  "version": "§6",
-  "mcversion": "1.8.9",
+  "name": "§4More Fuels Mod",
+  "description": "§4§oA mod that makes more items usable as fuel as well as adds some fuel storage items and blocks.",
+  "version": "",
+  "mcversion": "${mcversion}",
   "url": "http://tinyurl.com/MoreFuelsMod",
   "updateUrl": "",
-  "authorList": ["§4B§6o§4r§6e§4d"],
+  "authorList": ["§6Noah §4Martino"],
   "logoFile": "mf-logo.png",
   "screenshots": [],
   "dependencies": ["mod_Forge"]
 }
 ]
-
