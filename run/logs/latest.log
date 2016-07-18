@@ -1,32 +1,33 @@
-[15:50:46] [Client thread/INFO]: Setting user: Player573
-[15:50:47] [Client thread/INFO]: LWJGL Version: 2.9.4
-[15:50:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:§4More Fuels Mod
-[15:50:50] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[15:50:50] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[15:50:50] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[15:50:50] [Thread-9/INFO]: OpenAL initialized.
-[15:50:51] [Sound Library Loader/INFO]: Sound engine started
-[15:50:53] [Client thread/INFO]: Created: 16x16 textures-atlas
-[15:50:54] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:§4More Fuels Mod
-[15:50:54] [Client thread/INFO]: SoundSystem shutting down...
-[15:50:54] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[15:50:54] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[15:50:55] [Thread-11/INFO]: Initializing LWJGL OpenAL
-[15:50:55] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[15:50:55] [Thread-11/INFO]: OpenAL initialized.
-[15:50:55] [Sound Library Loader/INFO]: Sound engine started
-[15:50:58] [Client thread/INFO]: Created: 512x512 textures-atlas
-[15:50:58] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[15:51:04] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[15:51:04] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
-[15:51:04] [Server thread/INFO]: Generating keypair
-[15:51:05] [Server thread/INFO]: Preparing start region for level 0
-[15:51:06] [Server thread/INFO]: Preparing spawn area: 29%
-[15:51:06] [Server thread/INFO]: Changing view distance to 12, from 10
-[15:51:06] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[15:51:07] [Server thread/INFO]: Player573[local:E:34a5afde] logged in with entity id 34 at (184.6661643964513, 4.0, 1320.1131000300347)
-[15:51:07] [Server thread/INFO]: Player573 joined the game
-[15:51:07] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@38b9b503[id=47924d91-5a7e-38eb-bebd-89bd771037e9,name=Player573,properties={},legacy=false]
+[16:14:34] [Client thread/INFO]: Setting user: Player875
+[16:14:36] [Client thread/INFO]: LWJGL Version: 2.9.4
+[16:14:38] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:§4More Fuels Mod
+[16:14:39] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:14:39] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[16:14:39] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:14:39] [Thread-9/INFO]: OpenAL initialized.
+[16:14:39] [Sound Library Loader/INFO]: Sound engine started
+[16:14:42] [Client thread/INFO]: Created: 16x16 textures-atlas
+[16:14:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:§4More Fuels Mod
+[16:14:43] [Client thread/INFO]: SoundSystem shutting down...
+[16:14:43] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:14:43] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:14:43] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[16:14:43] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:14:43] [Thread-11/INFO]: OpenAL initialized.
+[16:14:43] [Sound Library Loader/INFO]: Sound engine started
+[16:14:46] [Client thread/INFO]: Created: 512x512 textures-atlas
+[16:14:47] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:14:49] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:14:49] [Server thread/INFO]: Starting integrated minecraft server version 1.8.9
+[16:14:49] [Server thread/INFO]: Generating keypair
+[16:14:49] [Server thread/INFO]: Preparing start region for level 0
+[16:14:50] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:14:51] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:14:52] [Server thread/INFO]: Player875[local:E:538362ec] logged in with entity id 66 at (185.4139044056834, 4.0, 1322.7955745200463)
+[16:14:52] [Server thread/INFO]: Player875 joined the game
+[16:14:56] [Server thread/INFO]: Player875 has just earned the achievement [Taking Inventory]
+[16:14:56] [Client thread/INFO]: [CHAT] Player875 has just earned the achievement [Taking Inventory]
+[16:15:08] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@17445c2d[id=4c4af65a-e991-33a8-a762-2d145c215578,name=Player875,properties={},legacy=false]
 com.mojang.authlib.exceptions.AuthenticationException: The client has sent too many requests within a certain amount of time
 	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:65) ~[YggdrasilAuthenticationService.class:?]
 	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:175) [YggdrasilMinecraftSessionService.class:?]
@@ -48,19 +49,17 @@ com.mojang.authlib.exceptions.AuthenticationException: The client has sent too m
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) [?:1.8.0_92]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) [?:1.8.0_92]
 	at java.lang.Thread.run(Unknown Source) [?:1.8.0_92]
-[15:51:09] [Server thread/INFO]: Player573 has just earned the achievement [Taking Inventory]
-[15:51:10] [Client thread/INFO]: [CHAT] Player573 has just earned the achievement [Taking Inventory]
-[15:51:27] [Server thread/INFO]: Saving and pausing game...
-[15:51:27] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[15:51:27] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[15:51:27] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[15:51:28] [Server thread/INFO]: Stopping server
-[15:51:28] [Server thread/INFO]: Saving players
-[15:51:28] [Server thread/INFO]: Saving worlds
-[15:51:28] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[15:51:28] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[15:51:28] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[15:51:29] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[15:51:29] [Client thread/INFO]: Stopping!
-[15:51:29] [Client thread/INFO]: SoundSystem shutting down...
-[15:51:29] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:15:18] [Server thread/INFO]: Saving and pausing game...
+[16:15:18] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:15:18] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:15:18] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[16:15:20] [Server thread/INFO]: Stopping server
+[16:15:20] [Server thread/INFO]: Saving players
+[16:15:20] [Server thread/INFO]: Saving worlds
+[16:15:20] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:15:20] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:15:20] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[16:15:20] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:15:21] [Client thread/INFO]: Stopping!
+[16:15:21] [Client thread/INFO]: SoundSystem shutting down...
+[16:15:21] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
