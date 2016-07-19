@@ -21,7 +21,6 @@ public class ModBlocks {
 
 	private static <T extends Block> T register(T block, ItemBlock itemBlock) {
 		GameRegistry.registerBlock(block);
-		GameRegistry.registerItem(itemBlock);
 
 		if (block instanceof BlockBase) {
 			((BlockBase)block).registerItemModel(itemBlock);
