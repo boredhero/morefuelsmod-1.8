@@ -22,7 +22,7 @@ import com.bored.morefuelsmod.item.ModItems;
 import com.bored.morefuelsmod.block.ModBlocks;
 import com.bored.morefuelsmod.client.MoreFuelsTab;
 
-@Mod(modid = Main.modid, name = Main.name, version = Main.version, acceptedMinecraftVersions = "[1.8,1.8.8,1.8.9]")
+@Mod(modid = Main.modid, name = Main.name, version = Main.version, acceptedMinecraftVersions = "[1.8.9]")
 public class Main {
 
 	public static final String modid = "morefuelsmod-1.8.x";
