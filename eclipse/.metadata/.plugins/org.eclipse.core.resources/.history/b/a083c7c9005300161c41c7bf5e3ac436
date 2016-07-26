@@ -48,8 +48,8 @@ public class Main {
 
 	}
 	
-	@SidedProxy(clientSide = "com.bored.morefuelsmod.proxy.ClientProxy", serverSide = "com.bored.morefuelsmod.proxy.CommonProxy")
-	public static CommonProxy proxy;
+	@SidedProxy(clientSide = "com.bored.morefuelsmod.proxy.ClientProxy")
+	public static ClientProxy proxy;
 	
 	public static final MoreFuelsTab creativeTab = new MoreFuelsTab();
 

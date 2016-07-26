@@ -1,22 +1,13 @@
-[02:59:17] [main/INFO]: Extra: []
-[02:59:17] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Noah/.gradle/caches/minecraft/assets, --assetIndex, 1.8, --accessToken{REDACTED}, --version, 1.8.9, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
-[02:59:17] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[02:59:17] [main/ERROR]: Unable to launch
-java.lang.ClassNotFoundException: net.minecraftforge.fml.common.launcher.FMLTweaker
-	at java.net.URLClassLoader.findClass(Unknown Source) ~[?:1.8.0_92]
-	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_92]
-	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source) ~[?:1.8.0_92]
-	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_92]
-	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:106) ~[launchwrapper-1.12.jar:?]
-	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_92]
-	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_92]
-	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_92]
-	at java.lang.Class.forName(Unknown Source) ~[?:1.8.0_92]
-	at net.minecraft.launchwrapper.Launch.launch(Launch.java:98) [launchwrapper-1.12.jar:?]
-	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_92]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_92]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_92]
-	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_92]
-	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97) [start/:?]
-	at GradleStart.main(GradleStart.java:26) [start/:?]
+[03:16:47] [Client thread/INFO]: Setting user: Player705
+[03:16:49] [Client thread/INFO]: LWJGL Version: 2.9.4
+[03:16:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Fuels Mod
+[03:16:51] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[03:16:51] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[03:16:51] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[03:16:51] [Thread-9/INFO]: OpenAL initialized.
+[03:16:51] [Sound Library Loader/INFO]: Sound engine started
+[03:16:54] [Client thread/INFO]: Created: 16x16 textures-atlas
+[03:16:55] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[03:17:09] [Client thread/INFO]: Stopping!
+[03:17:09] [Client thread/INFO]: SoundSystem shutting down...
+[03:17:10] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
