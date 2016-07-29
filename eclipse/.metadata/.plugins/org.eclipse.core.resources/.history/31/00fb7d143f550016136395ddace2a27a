@@ -26,8 +26,6 @@ public class ModCrafting {
 		GameRegistry.addShapelessRecipe(new ItemStack(ModItems.bituminousCoal),new Object[]{Items.coal,ModItems.bitumen});
 		//Gunpowder, Coal Dust, and Slime Ball to Can of Slimoline
 		GameRegistry.addShapelessRecipe(new ItemStack(ModItems.canSlimoline),new Object[]{Items.gunpowder,ModItems.dustCoal,Items.slime_ball});
-		//Coal and Stone Block to Coal Dust
-	    GameRegistry.addShapelessRecipe(new ItemStack(ModItems.dustCoal),new Object[]{Items.coal,Blocks.stone});
 		
 		//Mod Fuels to Fuel Pellets Recipes
 		
