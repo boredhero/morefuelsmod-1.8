@@ -1,0 +1,16 @@
+Symbol range map extraction starting
+Processing 13 files
+processing com\bored\morefuelsmod\Fuels.java
+Unmatched newcode start: 2532: //Pistons start here
+processing com\bored\morefuelsmod\Main.java
+processing com\bored\morefuelsmod\ModCrafting.java
+processing com\bored\morefuelsmod\ModSmelting.java
+processing com\bored\morefuelsmod\RFtL.java
+processing com\bored\morefuelsmod\block\BlockBase.java
+processing com\bored\morefuelsmod\block\BlockOre.java
+processing com\bored\morefuelsmod\block\ModBlocks.java
+processing com\bored\morefuelsmod\client\MoreFuelsTab.java
+processing com\bored\morefuelsmod\item\ItemBase.java
+processing com\bored\morefuelsmod\item\ModItems.java
+processing com\bored\morefuelsmod\proxy\ClientProxy.java
+processing com\bored\morefuelsmod\proxy\CommonProxy.java

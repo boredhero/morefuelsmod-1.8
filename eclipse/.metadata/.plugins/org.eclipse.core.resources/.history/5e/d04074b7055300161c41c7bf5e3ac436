@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "morefuelsmod-1.8.x:block/cokeBlock" }
+    }
+}

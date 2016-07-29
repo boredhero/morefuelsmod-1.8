@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;MDKExample&apos;&#x0D;&#x0A;- Original project: &apos;MDKExample&apos;&#x0D;&#x0A;- Original element: &apos;block&apos;" description="Delete element" element1="src/main/resources/assets/morefuelsmod-1.8.x/models/block/block" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1469519528474" subPackages="false" version="1.0"/>
+</session>
