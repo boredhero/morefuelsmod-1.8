@@ -10,28 +10,37 @@ This mapping 'stable_20' was designed for MC 1.8.8! Use at your own peril.This m
          R4wk, ZeuX, IngisKahn, bspkrs           
 #################################################
 :deobfCompileDummyTask
+:getVersionJson
+:extractUserdev UP-TO-DATE
+:downloadClient
+:downloadServer
+:splitServerJar
+:mergeJars
+:applyBinaryPatches
 :deobfProvidedDummyTask
+:extractDependencyATs SKIPPED
+:extractMcpData
+:extractMcpMappings SKIPPED
+:genSrgs
+:deobfMcMCP
+Applying SpecialSource...
+Applying Exceptor...
 :sourceApiJava UP-TO-DATE
 :compileApiJava UP-TO-DATE
 :processApiResources UP-TO-DATE
 :apiClasses UP-TO-DATE
-:sourceMainJava
+:sourceMainJava UP-TO-DATE
 :compileJavawarning: [options] bootstrap class path not set in conjunction with -source 1.6
 1 warning
 
-:processResources
+:processResources UP-TO-DATE
 :classes
-:jar
+:jar UP-TO-DATE
 :sourceTestJava UP-TO-DATE
 :compileTestJava UP-TO-DATE
 :processTestResources UP-TO-DATE
 :testClasses UP-TO-DATE
 :test UP-TO-DATE
-:extractMcpData SKIPPED
-:extractMcpMappings
-:getVersionJson
-:extractUserdev UP-TO-DATE
-:genSrgs SKIPPED
 :reobfJar
 :extractRangemapReplacedMain
 C:\Users\Noah\Desktop\Coding\MoreFuelsMod\morefuelsmod-1.8\build\sources\main\java
@@ -44,4 +53,4 @@ remapping source...
 
 BUILD SUCCESSFUL
 
-Total time: 9.732 secs
+Total time: 42.206 secs
