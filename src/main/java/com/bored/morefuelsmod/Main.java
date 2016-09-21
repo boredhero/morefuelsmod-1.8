@@ -16,9 +16,9 @@ import net.minecraftforge.fml.common.registry.GameRegistry;
 @Mod(modid = Main.modid, name = Main.name, version = Main.version, acceptedMinecraftVersions = "")
 public class Main {
 
-	public static final String modid = "morefuelsmod-1.8.x";
+	public static final String modid = "morefuelsmod-1.8.9";
 	public static final String name = "More Fuels Mod";
-	public static final String version = "1.4.4";
+	public static final String version = "1.5.1.RB.0";
 
 	@Mod.Instance(modid)
 	public static Main instance;

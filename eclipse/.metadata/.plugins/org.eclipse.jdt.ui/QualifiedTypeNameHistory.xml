@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="com.bored.morefuelsmod.block.ModBlocks"/>
+<fullyQualifiedTypeName name="com.bored.morefuelsmod.item.ModItems"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="net.minecraft.block.state.IBlockState"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
 </qualifiedTypeNameHistroy>

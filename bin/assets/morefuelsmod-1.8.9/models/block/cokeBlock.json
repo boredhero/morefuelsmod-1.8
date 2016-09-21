@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "morefuelsmod-1.8.9:blocks/cokeBlock"
+    }
+}
