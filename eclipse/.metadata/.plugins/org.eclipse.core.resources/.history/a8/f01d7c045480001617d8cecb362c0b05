@@ -13,8 +13,8 @@ public class ModBlocks {
 	public static BlockOre bituminousCoalOre;
 
 	public static void init() {
-		pelletBlock = register(new BlockBase(Material.rock, "pelletBlock"));
-		concentratedPelletBlock = register(new BlockBase(Material.rock, "concentratedPelletBlock"));
+		pelletBlock = register(new BlockBase(Material.wood, "pelletBlock"));
+		concentratedPelletBlock = register(new BlockBase(Material.wood, "concentratedPelletBlock"));
 		cokeBlock = register(new BlockBase(Material.rock, "cokeBlock"));
 		bituminousCoalOre = register(new BlockOre("bituminousCoalOre"));
 		
