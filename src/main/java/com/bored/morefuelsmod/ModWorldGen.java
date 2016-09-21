@@ -4,9 +4,8 @@ import java.util.Random;
 
 import com.bored.morefuelsmod.block.ModBlocks;
 
-import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.BlockPos;
 import net.minecraft.world.World;
-import net.minecraft.world.chunk.IChunkGenerator;
 import net.minecraft.world.chunk.IChunkProvider;
 import net.minecraft.world.gen.feature.WorldGenMinable;
 import net.minecraft.world.gen.feature.WorldGenerator;
@@ -34,9 +33,9 @@ public class ModWorldGen implements IWorldGenerator{
     }
  
  @Override
- public void generate(Random random, int chunkX, int chunkZ, World world, IChunkGenerator chunkGenerator,
+ public void generate(Random random, int chunkX, int chunkZ, World world, IChunkProvider chunkGenerator,
    IChunkProvider chunkProvider) {
-  switch (world.provider.getDimension()){
+  switch (world.provider.getDimensionId()){
   case 0://Over_World
    //this.runGenerator(generator, world, random, chunkX, chunkZ, chancesToSpawn, minHeight, maxHeight);//
    this.runGenerator(this.bituminousCoalOre, world, random, chunkX, chunkZ, 10, 0, 60);
