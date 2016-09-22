@@ -10,11 +10,14 @@ public class ModBlocks {
 	public static BlockBase pelletBlock;
 	public static BlockBase concentratedPelletBlock;
 	public static BlockBase cokeBlock;
+	public static BlockOre bituminousCoalOre;
 
 	public static void init() {
-		pelletBlock = register(new BlockBase(Material.field_151575_d, "pelletBlock"));
-		concentratedPelletBlock = register(new BlockBase(Material.field_151575_d, "concentratedPelletBlock"));
+		pelletBlock = register(new BlockBase(Material.field_151576_e, "pelletBlock"));
+		concentratedPelletBlock = register(new BlockBase(Material.field_151576_e, "concentratedPelletBlock"));
 		cokeBlock = register(new BlockBase(Material.field_151576_e, "cokeBlock"));
+		bituminousCoalOre = register(new BlockOre("bituminousCoalOre"));
+		
 	}
 
 	private static <T extends Block> T register(T block, ItemBlock itemBlock) {
