@@ -13,12 +13,12 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 
-@Mod(modid = Main.modid, name = Main.name, version = Main.version, acceptedMinecraftVersions = "")
+@Mod(modid = Main.modid, name = Main.name, version = Main.version, acceptedMinecraftVersions = "1.8.9")
 public class Main {
 
 	public static final String modid = "morefuelsmod-1.8.9";
 	public static final String name = "More Fuels Mod";
-	public static final String version = "1.5.1.RB.0";
+	public static final String version = "1.5.1.RB.1";
 
 	@Mod.Instance(modid)
 	public static Main instance;
@@ -41,6 +41,7 @@ public class Main {
 	@Mod.EventHandler
 	public void init(FMLInitializationEvent event) {
 		GameRegistry.registerFuelHandler(new Fuels());
+		GameRegistry.registerWorldGenerator(new ModWorldGen(), 1);
 	}
 
 	@Mod.EventHandler
