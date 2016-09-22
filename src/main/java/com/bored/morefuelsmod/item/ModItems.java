@@ -11,7 +11,6 @@ public class ModItems {
 	public static ItemBase bituminousCoal;
 	public static ItemBase canSlimoline;
 	public static ItemBase dustCoal;
-	public static ItemBase bitumen;
 
 	public static void init() {
 		pelletsFuel = register(new ItemBase("pelletsFuel"));
@@ -20,7 +19,6 @@ public class ModItems {
 		bituminousCoal = register(new ItemBase("bituminousCoal"));
 		canSlimoline = register(new ItemBase("canSlimoline"));
 		dustCoal = register(new ItemBase("dustCoal"));
-		bitumen = register(new ItemBase("bitumen"));
 	}
 
 	private static <T extends Item> T register(T item) {
