@@ -41,7 +41,6 @@ public class Main {
 	@Mod.EventHandler
 	public void init(FMLInitializationEvent event) {
 		GameRegistry.registerFuelHandler(new Fuels());
-		GameRegistry.registerWorldGenerator(new ModWorldGen(), 1);
 	}
 
 	@Mod.EventHandler
