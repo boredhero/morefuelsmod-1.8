@@ -30,7 +30,7 @@ public class Main {
 		config.load();
 		boolean enableRFtLrecipe = config.get(Configuration.CATEGORY_GENERAL, "enableRFtLrecipe", true).getBoolean(true);
 		if(enableRFtLrecipe)
-			RFtL.init();
+			//RFtL.init();
 		config.save();
 		ModItems.init();
 		ModBlocks.init();

@@ -12,8 +12,22 @@ This mapping 'stable_20' was designed for MC 1.8.8! Use at your own peril.This m
 Version string '1.5.2.RB.0' does not match SemVer specification 
 You should try SemVer : http://semver.org/
 :deobfCompileDummyTask
+:getVersionJson
+:extractUserdev
+:downloadClient
+:downloadServer
+:splitServerJar
+:mergeJars
+:applyBinaryPatches
 :deobfProvidedDummyTask
-:sourceApiJava
+:extractDependencyATs SKIPPED
+:extractMcpData
+:extractMcpMappings
+:genSrgs
+:deobfMcMCP
+Applying SpecialSource...
+Applying Exceptor...
+:sourceApiJava UP-TO-DATE
 :compileApiJava UP-TO-DATE
 :processApiResources UP-TO-DATE
 :apiClasses UP-TO-DATE
@@ -21,19 +35,14 @@ You should try SemVer : http://semver.org/
 :compileJavawarning: [options] bootstrap class path not set in conjunction with -source 1.6
 1 warning
 
-:processResources
+:processResources UP-TO-DATE
 :classes
 :jar
-:sourceTestJava
+:sourceTestJava UP-TO-DATE
 :compileTestJava UP-TO-DATE
 :processTestResources UP-TO-DATE
 :testClasses UP-TO-DATE
 :test UP-TO-DATE
-:extractMcpData SKIPPED
-:extractMcpMappings
-:getVersionJson
-:extractUserdev UP-TO-DATE
-:genSrgs SKIPPED
 :reobfJar
 :extractRangemapReplacedMain
 C:\Users\Noah\Desktop\Coding\MoreFuelsMod\morefuelsmod-1.8\build\sources\main\java
@@ -46,4 +55,4 @@ remapping source...
 
 BUILD SUCCESSFUL
 
-Total time: 13.874 secs
+Total time: 28.843 secs
